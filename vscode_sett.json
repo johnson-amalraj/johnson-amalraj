@@ -1,0 +1,81 @@
+{
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "git.autofetch": true,
+    "terminal.integrated.fontFamily": "'SourceCodePro+PowerLine+AwesomeRegular'",
+    "vsicons.dontShowNewVersionMessage": true,
+    "python.condaPath": "/Users/johnsonamalraj/micromamba/condabin/conda",
+    "vscode-edge-devtools.webhint": false,
+    "eslint.codeActionsOnSave.rules": null,
+    // vim editor settings
+    "vim.highlightedyank.enable": true,
+    "vim.highlightedyank.duration": 150,
+    "vim.highlightedyank.textColor": "orange",
+    "vim.searchHighlightTextColor": "red",
+    // TODO highlight settings
+    "todohighlight.isEnable": true,
+    "todohighlight.isCaseSensitive": true,
+    "todohighlight.keywords": [
+        // "DEBUG",
+        {
+            "text": "DEBUG",
+            "color": "#ff0000",
+            "backgroundColor": "blue",
+            "overviewRulerColor": "yellow"
+        },
+        {
+            "text": "STEP",
+            "color": "#ff0000",
+            "backgroundColor": "yellow",
+            "overviewRulerColor": "red"
+        },
+        {
+            "text": "HACK",
+            "color": "#000",
+            "isWholeLine": false
+        },
+        {
+            "text": "REVIEW",
+            "color": "red",
+            "border": "1px solid yellow",
+            "borderRadius": "1px",
+            "backgroundColor": "rgba(0,0,0,0)"
+        },
+        {
+            "text": "JOHNSON",
+            "color": "yellow",
+            "border": "1px solid red",
+            "borderRadius": "1px",
+            "backgroundColor": "rgba(0,0,0,0)"
+        },
+        {
+            "text": "NOTE",
+            "color": "red",
+            "border": "1px solid yellow",
+            "borderRadius": "1px",
+            "backgroundColor": "rgba(0,0,0,0)"
+        },
+        {
+            "text": "TODO",
+            "color": "red",
+            "border": "1px solid red",
+            "borderRadius": "1px",
+            "backgroundColor": "rgba(0,0,0,0)"
+        },
+    ],
+    "cSpell.userWords": [
+        "autofetch",
+        "condabin",
+        "dont",
+        "highlightedyank",
+        "johnsonamalraj",
+        "micromamba",
+        "rgba",
+        "todohighlight",
+        "vsicons",
+        "webhint"
+    ],
+    "editor.formatOnSave": true
+}
