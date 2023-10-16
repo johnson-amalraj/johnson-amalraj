@@ -114,5 +114,6 @@
     },
     "systemverilog.includeIndexing": [
         "**/*.{sv,v,svh,vh,svi,svp,pkg}"
-    ]
+    ],
+    "systemverilog.maxLineCountIndexing": 20000
 }
